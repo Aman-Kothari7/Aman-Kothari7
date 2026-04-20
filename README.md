@@ -1,6 +1,6 @@
 Hi, I'm Aman 👋
 
-📍 **Bengaluru ↔ Mumbai** | 🤖 **Building Agent Harness & Enterprise AI** | 🚀 **@ Sarvam AI**
+📍 **Bengaluru ↔ Mumbai** | 🤖 **Building Agents for Enterprise AI** | 🚀 **@ Sarvam AI**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -13,30 +13,26 @@ Hi, I'm Aman 👋
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Building agentic systems and enterprise AI infrastructure at Sarvam AI. Obsessed with making AI useful in production — not just demos.
+> Building agentic systems and enterprise AI infrastructure at Sarvam AI. Obsessed with making AI useful in production, not just demos.
 
 ## Current Work
 
-- 🧪 **Agent Harness** – Evaluation and orchestration framework for AI agents in enterprise settings
-- 🏢 **Enterprise AI @ [Sarvam AI](https://sarvam.ai)** – Building AI products for Indian enterprises
+- 🧪 **Agent Harness** - Evaluation and orchestration framework for AI agents in enterprise settings
+- 🏢 **Enterprise AI @ [Sarvam AI](https://sarvam.ai)** - Building AI products for Indian enterprises
 
 ## Projects
 
-- 🔔 **[claude-code-macos-notifications](https://github.com/Aman-Kothari7/claude-code-macos-notifications)** – Native macOS notifications for Claude Code
-- 🧩 **[claude-code-skills](https://github.com/Aman-Kothari7/claude-code-skills)** – Community collection of skills for Claude Code
-- 🤖 **[Generative AI Chatbot](https://github.com/Aman-Kothari7/Generative-AI-Chatbot_Web-scraped-data)** – GenAI chatbot powered by web-scraped data
-- 🗂️ **[RAG System + FastAPI](https://github.com/Aman-Kothari7/RAGsystem-FastAPI)** – Retrieval-augmented generation pipeline with FastAPI
-- 📄 **[PDF AI (Flutter + LangChain)](https://github.com/Aman-Kothari7/pdf_AI_Flutter_Langchain)** – Chat with PDFs using Flutter and LangChain
-- 📝 **[TestGen.ai](https://github.com/Aman-Kothari7/TestGen.ai)** – Question generation platform using fine-tuned T5 Transformers
-- 💬 **[Email AI](https://github.com/Aman-Kothari7/email_ai)** – AI-powered email assistant built with Flutter
-- 🏋️ **[Workout AI](https://github.com/Aman-Kothari7/workout_ai)** – Personalized workout planner with AI
-- ❤️ **[Health AI](https://github.com/Aman-Kothari7/health-ai)** – Health tracking with AI insights
-- 🎓 **[Learning Path AI](https://github.com/Aman-Kothari7/learning_path_ai_applied_LLM_Application)** – LLM-powered personalized learning paths
-- 😷 **[CoviTech](https://github.com/Aman-Kothari7/CoviTech---Covid-Detection-and-News)** – COVID detection via TensorFlow.js CT scan model + news tracker
-- 📊 **[Sentiment Analysis](https://github.com/Aman-Kothari7/SentimentAnalysis-NLP_Project)** – NLP sentiment analysis project
-- 📸 **[Automated Attendance (OpenCV)](https://github.com/Aman-Kothari7/OpenCV-Automated-Attendance-System)** – Face-recognition attendance using Haar Cascades
-- 💸 **[Expense Tracker](https://github.com/Aman-Kothari7/expense_tracker)** – Flutter expense tracking app
-- 🎮 **[Reacto](https://github.com/Aman-Kothari7/Reacto_Reaction_Mobile_Game)** – Reaction-time mobile game in Flutter
+- 🔔 **[claude-code-macos-notifications](https://github.com/Aman-Kothari7/claude-code-macos-notifications)** - Native macOS notifications for Claude Code
+- 🧩 **[claude-code-skills](https://github.com/Aman-Kothari7/claude-code-skills)** - Community collection of skills for Claude Code
+- 📄 **[PDF AI (Flutter + LangChain)](https://github.com/Aman-Kothari7/pdf_AI_Flutter_Langchain)** - Chat with PDFs using Flutter and LangChain
+- 📝 **[TestGen.ai](https://github.com/Aman-Kothari7/TestGen.ai)** - Question generation platform using fine-tuned T5 Transformers
+- 💬 **[Email AI](https://github.com/Aman-Kothari7/email_ai)** - AI-powered email assistant built with Flutter
+- 🏋️ **[Workout AI](https://github.com/Aman-Kothari7/workout_ai)** - Personalized workout planner with AI
+- 😷 **[CoviTech](https://github.com/Aman-Kothari7/CoviTech---Covid-Detection-and-News)** - COVID detection via TensorFlow.js CT scan model + news tracker
+- 📊 **[Sentiment Analysis](https://github.com/Aman-Kothari7/SentimentAnalysis-NLP_Project)** - NLP sentiment analysis project
+- 📸 **[Automated Attendance (OpenCV)](https://github.com/Aman-Kothari7/OpenCV-Automated-Attendance-System)** - Face-recognition attendance using Haar Cascades
+- 💸 **[Expense Tracker](https://github.com/Aman-Kothari7/expense_tracker)** - Flutter expense tracking app
+- 🎮 **[Reacto](https://github.com/Aman-Kothari7/Reacto_Reaction_Mobile_Game)** - Reaction-time mobile game in Flutter
 
 ## GitHub Activity
 
@@ -44,9 +40,9 @@ Hi, I'm Aman 👋
 
 ## What I'm Doing
 
-- **Agentic engineering** – Designing evaluation harnesses and orchestration layers for production AI agents
-- **Enterprise AI** – Shipping AI products that work at scale for Indian businesses
-- **Building in public** – Open-sourcing tools and experiments along the way
+- **Agentic engineering** - Designing evaluation harnesses and orchestration layers for production AI agents
+- **Enterprise AI** - Shipping AI products that work at scale for Indian businesses
+- **Building in public** - Open-sourcing tools and experiments along the way
 
 ## Connect
 
