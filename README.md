@@ -34,9 +34,6 @@ Hi, I'm Aman 👋
 - 💸 **[Expense Tracker](https://github.com/Aman-Kothari7/expense_tracker)** - Flutter expense tracking app
 - 🎮 **[Reacto](https://github.com/Aman-Kothari7/Reacto_Reaction_Mobile_Game)** - Reaction-time mobile game in Flutter
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Aman-Kothari7)
 
 ## What I'm Doing
 
