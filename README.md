@@ -17,7 +17,7 @@ Hi, I'm Aman 👋
 
 ## Current Work
 
-- 🏢 **Enterprise AI @ [Sarvam AI](https://sarvam.ai)** - Building AI products for Indian enterprises
+- 🏢 **Building full stack @ [Sarvam AI](https://sarvam.ai)** - Building AI products for Indian enterprises
 - 🛠️ **AI-Native Dev** - Using AI coding tools daily and sharing what works
 
 ## Projects
