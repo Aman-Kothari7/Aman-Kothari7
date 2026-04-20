@@ -1,6 +1,6 @@
 Hi, I'm Aman 👋
 
-📍 **Bengaluru ↔ Mumbai** | 🤖 **Building Agents for Enterprise AI** | 🚀 **@ Sarvam AI**
+📍 **Bengaluru ↔ Mumbai** | 🤖 **Building Agents for Enterprises** | 🚀 **@ Sarvam AI**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -17,8 +17,8 @@ Hi, I'm Aman 👋
 
 ## Current Work
 
-- 🧪 **Agent Harness** - Evaluation and orchestration framework for AI agents in enterprise settings
 - 🏢 **Enterprise AI @ [Sarvam AI](https://sarvam.ai)** - Building AI products for Indian enterprises
+- 🛠️ **AI-Native Dev** - Using AI coding tools daily and sharing what works
 
 ## Projects
 
